@@ -1,0 +1,29 @@
+
+[ visual studio 에서 설치 ]
+korea
+livw server
+css-compact
+
+
+웹상의 코드 모아둔 사이트
+https://cdnjs.com/
+jquery 3.6.0
+주황색 부분
+
+
+[교재]
+P320 자바 시작
+P432 제이쿼리 시작
+
+[홈페이지 벤치마킹]
+gdweb
+dbcut
+pinterest
+
+[컬러]
+어도비 컬러
+컬러헌트
+
+[폰트]
+구글폰트
+눈누
